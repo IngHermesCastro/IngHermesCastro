@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Desarrollador%20Web%20%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20%7C%20Especialista%20en%20Desarrollo%20Web&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas+y+Computaci%C3%B3n;Desarrollador+Frontend+%26+Backend+Developer;Especialista+en+Angular+%26+Firebase;Arquitecto+de+Soluciones+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas+y+Computaci%C3%B3n;Desarrollador+Frontend+%26+Backend;Especialista+en+Angular+%26+Firebase;Arquitecto+de+Soluciones+Web)](https://git.io/typing-svg)
 
 </div>
 
