@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Senior%20Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20%7C%20Especialista%20en%20Desarrollo%20Web&descAlignY=51&descAlign=50
+https://git.io/typing-svg
+</div>
