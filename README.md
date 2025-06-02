@@ -4,13 +4,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Desarrollador%20Web%20%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20%7C%20Especialista%20en%20Desarrollo%20Web&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas+y+Computaci%C3%B3n;Senior+Frontend+%26+Backend+Developer;Especialista+en+Angular+%26+Firebase;Arquitecto+de+Soluciones+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas+y+Computaci%C3%B3n;Desarrollador+Frontend+%26+Backend+Developer;Especialista+en+Angular+%26+Firebase;Arquitecto+de+Soluciones+Web)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 Sobre Mí
 
-Soy un **Ingeniero de Sistemas y Computación** apasionado por el desarrollo web con más de [X años] de experiencia en la construcción de aplicaciones escalables y robustas. Me especializo en crear soluciones end-to-end que combinan interfaces de usuario intuitivas con arquitecturas backend sólidas.
+Soy un **Ingeniero de Sistemas y Computación** apasionado por el desarrollo web con más de 1 año de experiencia en la construcción de aplicaciones escalables y robustas. Me especializo en crear soluciones end-to-end que combinan interfaces de usuario intuitivas con arquitecturas backend sólidas.
 
 ```typescript
 const developer = {
@@ -53,18 +53,18 @@ const developer = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=inghermescastro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inghermescastro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inghermescastro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inghermescastro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ## 🔥 Actividad Reciente
